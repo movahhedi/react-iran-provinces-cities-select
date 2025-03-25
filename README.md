@@ -1,4 +1,4 @@
-# react-iran-provinces-cities-select
+## **A React Component For Iran Provinces And Cities Select**
 `react-iran-provinces-cities-select` is an easy to use and simple react component for adding an interactive Iran provinces and cities select to your application's form.
 
 ### **Installation And Usage**
